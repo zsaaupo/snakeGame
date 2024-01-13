@@ -2,6 +2,11 @@
 
 Welcome to the Snake Game implemented in C! This console-based game allows you to control a snake, eat fruits, and grow longer. The goal is to achieve the highest score possible.
 
+| Beginning                                | In game                                | Game over                                 | Highscore list                                 |
+| --------------------------------------------- | --------------------------------------------- | --------------------------------------------- | --------------------------------------------- |
+| ![Screenshot 1](https://github.com/zsaaupo/snakeGame/assets/46224041/1192d234-7392-475d-a8e8-bb7d1634ed85) | ![Screenshot 2](https://github.com/zsaaupo/snakeGame/assets/46224041/b81ef3e4-fa29-4313-b5dd-523513c8ff0f) | ![Screenshot 3](https://github.com/zsaaupo/snakeGame/assets/46224041/9641a91a-e4a1-42c2-bc06-b3971bf8db42) | ![Screenshot 4](https://github.com/zsaaupo/snakeGame/assets/46224041/f2353934-ef78-49a7-8852-5284ccd10fcb) |
+
+
 ## Instructions
 
  **Controls:**
