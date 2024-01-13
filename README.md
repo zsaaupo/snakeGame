@@ -15,6 +15,28 @@ Welcome to the Snake Game implemented in C! This console-based game allows you t
 **High Scores:**
    - The game keeps track of high scores.
    - Enter your name at the end of the game to save your score.
+## C Language Topics
+
+**Flow Control:**
+   - The code uses flow control structures like `if`, `switch`, and loops (`while`) to manage the game's logic and control flow.
+
+**Functions:**
+   - Modular organization improves code readability, with concise `function prototype` providing a clear overview of the main function and associated functionalities.
+
+**Arrays:**
+   - Arrays are used to represent the snake's tail positions (`tailX` and `tailY`), the game board dimensions (`HEIGHT` and `WIDTH`), and positions of the fruit (`fruitX` and `fruitY`).
+
+**Pointers:**
+   - Pointers are used for dynamic memory allocation to handle the snake's tail length dynamically.
+
+**Strings:**
+   - Character sequences are used for printing the game board and player's name.
+
+**Structures:**
+   - A structure (`struct Player`) is introduced to store the player's name and score, enhancing data organization.
+
+**File Handling:**
+   - The code includes file handling to save and load high scores in a file (`highscores.txt`).
 
 ## How to Run
 
