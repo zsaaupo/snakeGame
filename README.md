@@ -48,7 +48,7 @@ Welcome to the Snake Game implemented in C! This console-based game allows you t
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/snake-game-c.git
+git clone https://github.com/zsaaupo/snakeGame
 ```
 
 Open with CodeBlocks
